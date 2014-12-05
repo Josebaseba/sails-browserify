@@ -3,6 +3,8 @@ sails-browserify
 
 Task folder configuration to work with Browserify and React (this is optional)
 
+### [Full Example](https://github.com/Josebaseba/sails-browserify-example)
+
 # Usage
 
 Create a Sails project and in the terminal exec this commands:
