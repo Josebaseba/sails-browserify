@@ -3,7 +3,9 @@ sails-browserify
 
 Task folder configuration to work with Browserify and React (this is optional)
 
-### [Full Example](https://github.com/Josebaseba/sails-browserify-example)
+### [Full Example v0.11](https://github.com/Josebaseba/sails-browserify-react)
+
+### [Full Example v0.10.5](https://github.com/Josebaseba/sails-browserify-example)
 
 # Usage
 
